@@ -41,15 +41,15 @@ Screenshot of Hangman Game below
 
 Start of the game:
 
-![hangman-screenshot1]()
+![hangman-screenshot1](https://github.com/cheesehero112/hangman/raw/main/media/hangman-start.png)
 
 Midgame:
 
-![hangman-screenshot1]()
+![hangman-screenshot1](https://github.com/cheesehero112/hangman/raw/main/media/hangman-midgame.png)
 
 Endgame:
 
-![hangman-screenshot1]()
+![hangman-screenshot1](https://github.com/cheesehero112/hangman/raw/main/media/hangman-endgame.png)
 
 
 
